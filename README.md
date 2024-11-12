@@ -34,7 +34,7 @@ Below are the images included in this repository:
 
 To view the video, you can click the link below or open the file in your media player:
 
-[![file](media/file.mp4)](media/file.mp4) *(click to view)*
+[![file](media/video.mov)](media/video.mov) *(click to view)*
 
 ## How to Use
 
