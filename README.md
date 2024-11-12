@@ -23,12 +23,12 @@ Here’s a quick preview of the contents in the `media` folder:
 
 Below are the images included in this repository:
 
-![img1](media/img1.jpg)
-![img2](media/img2.jpg)
-![img3](media/img3.jpg)
-![img4](media/img4.jpg)
-![img5](media/img5.jpg)
-![img6](media/img6.jpg)
+![img1](media/img1.png)
+![img2](media/img2.png)
+![img3](media/img3.png)
+![img4](media/img4.png)
+![img5](media/img5.png)
+![img6](media/img6.png)
 
 ### Video
 
