@@ -19,9 +19,9 @@ Below are the images included in this repository:
 
 ### Video
 
-To view the video, you can click the link below or open the file in your media player:
+To view the video, click the link below to watch it on YouTube:
 
-[![file](media/video.mov)](media/video.mov) *(click to view)*
+[![file](https://img.youtube.com/vi/e9gd2gOxsDE/0.jpg)](https://youtube.com/shorts/e9gd2gOxsDE?feature=share) *(click to watch)*
 
 ## How to Use
 
