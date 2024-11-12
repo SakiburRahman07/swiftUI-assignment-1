@@ -13,9 +13,6 @@ Below are the images included in this repository:
 ![img1](media/img1.png)
 ![img2](media/img2.png)
 ![img3](media/img3.png)
-![img4](media/img4.png)
-![img5](media/img5.png)
-![img6](media/img6.png)
 
 ### Video
 
