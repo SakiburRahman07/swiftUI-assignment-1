@@ -21,7 +21,7 @@ Below are the images included in this repository:
 
 To view the video, click the link below to watch it on YouTube:
 
-[![file](https://img.youtube.com/vi/e9gd2gOxsDE/0.jpg)](https://youtube.com/shorts/e9gd2gOxsDE?feature=share) *(click to watch)*
+[![file](https://img.youtube.com/vi/K7Cb8UmmRag/0.jpg)](https://youtu.be/K7Cb8UmmRag) *(click to watch)*
 
 ## How to Use
 
