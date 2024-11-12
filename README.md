@@ -15,23 +15,25 @@ This repository contains a collection of media files, including images and a vid
 - **Video**:
   - `file.mp4`
 
-## Usage
-
-These files can be used as sample media assets for testing or demonstration purposes. You can use them in any project that requires image or video files.
-
 ## Preview
 
 Here’s a quick preview of the contents in the `media` folder:
 
 ### Images
-- ![img1](media/img1.jpg)
-- ![img2](media/img2.jpg)
-- ![img3](media/img3.jpg)
-- ![img4](media/img4.jpg)
-- ![img5](media/img5.jpg)
-- ![img6](media/img6.jpg)
+
+Below are the images included in this repository:
+
+![img1](media/img1.jpg)
+![img2](media/img2.jpg)
+![img3](media/img3.jpg)
+![img4](media/img4.jpg)
+![img5](media/img5.jpg)
+![img6](media/img6.jpg)
 
 ### Video
+
+To view the video, you can click the link below or open the file in your media player:
+
 [![file](media/file.mp4)](media/file.mp4) *(click to view)*
 
 ## How to Use
