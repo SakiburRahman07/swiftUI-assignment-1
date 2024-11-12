@@ -20,8 +20,3 @@ To view the video, click the link below to watch it on YouTube:
 
 [![file](https://img.youtube.com/vi/K7Cb8UmmRag/0.jpg)](https://youtu.be/K7Cb8UmmRag) *(click to watch)*
 
-## How to Use
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/media-folder.git
