@@ -1,8 +1,10 @@
 # Roll : 2007007
-# Name : Md. Sakibur Rahman
-# Section : A1
-# Course No : CSE 3118
-# Course Name : Mobile Computing Laboratory	
+ Name : Md. Sakibur Rahman
+ Roll : 2007007
+ Section : A1
+ Course No : CSE 3118
+ Course Name : Mobile Computing Laboratory	
+ 
 # Media Folder
 
 This repository contains a collection of media files, including images and a video, stored in the `media` folder.
