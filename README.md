@@ -1,9 +1,12 @@
-# Roll : 2007007
- Name : Md. Sakibur Rahman
- Roll : 2007007
- Section : A1
- Course No : CSE 3118
- Course Name : Mobile Computing Laboratory	
+# 📝 **Student Information**
+
+- **🎓 Roll:** `2007007`  
+- **👤 Name:** *Md. Sakibur Rahman*  
+- **📚 Section:** `A1`  
+- **📖 Course:**  
+  - **Code:** `CSE 3118`  
+  - **Name:** *Mobile Computing Laboratory*  
+
  
 # Media Folder
 
